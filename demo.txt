@@ -1,2 +1,3 @@
 "Hello Git World" 
 "Mais uma alteracao feita!" 
+"Terceira altera‡Æo no ficheiro!" 
